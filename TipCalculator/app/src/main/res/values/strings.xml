@@ -7,6 +7,6 @@
     <string name="amount_bill_hint">Enter bill</string>
     <string name="tip_percent_hint">Enter tip %</string>
     <string name="label_tip">Tip ($)</string>
-    <string name="label_total">Total</string>
+    <string name="label_total">Total Bill</string>
     <string name="button_calculate">CALCULATE</string>
 </resources>
